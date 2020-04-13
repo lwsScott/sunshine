@@ -12,7 +12,7 @@
 <h2>This an "h2" header</h2>
 <h3>This an "h3" header</h3>
 <h4>This an "h4" header</h4>
-
+<p>a paragraph</p>
 
 </body>
 </html>
